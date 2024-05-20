@@ -9,7 +9,7 @@ public class CacheConstants
     /**
      * 标签 cache key
      */
-    public static final String LABEL_KEY = "label_dept:";
+    public static final String LABEL_KEY = "label_key:";
 
     /**
      * All
